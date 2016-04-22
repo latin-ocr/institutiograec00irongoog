@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutiograec00irongoog/institutiograec00irongoog_0188.png"; bbox 0 0 2194 3388; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 443 223 542 811">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 443 223 542 811">
+     <span class='ocr_line' id='line_1_1' title="bbox 443 223 477 744; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 462 726 475 744; x_wconf 72' lang='grc' dir='ltr'>υ</span> <span class='ocrx_word' id='word_1_2' title='bbox 444 469 476 638; x_wconf 47' lang='lat' dir='ltr'>..n-stubs*-</span> <span class='ocrx_word' id='word_1_3' title='bbox 443 223 477 402; x_wconf 51' lang='grc' dir='ltr'>κυτλκδωυη.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 477 295 519 811; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 481 795 502 811; x_wconf 64' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_5' title='bbox 486 716 506 757; x_wconf 56' lang='lat' dir='ltr'>&lt;u</span> <span class='ocrx_word' id='word_1_6' title='bbox 477 493 509 638; x_wconf 48' lang='lat' dir='ltr'>nus-offiano</span> <span class='ocrx_word' id='word_1_7' title='bbox 510 357 519 372; x_wconf 72' lang='lat' dir='ltr'><em>a</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 510 295 518 309; x_wconf 64' lang='lat' dir='ltr'>s</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 519 225 542 384; textangle 180"><span class='ocrx_word' id='word_1_9' title='bbox 519 225 542 384; x_wconf 61' lang='grc' dir='ltr'>Εῑῆι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 578 495 610 634">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 578 495 610 634">
+     <span class='ocr_line' id='line_1_4' title="bbox 578 495 610 634; textangle 180"><span class='ocrx_word' id='word_1_10' title='bbox 578 495 610 634; x_wconf 50' lang='lat' dir='ltr'>unffi-..RQ-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 713 1793 759 2425">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 713 1793 759 2425">
+     <span class='ocr_line' id='line_1_5' title="bbox 713 1793 759 2425; textangle 180"><span class='ocrx_word' id='word_1_11' title='bbox 729 2393 753 2425; x_wconf 67' lang='grc' dir='ltr'><strong>μ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 728 2137 755 2352; x_wconf 15' lang='lat' dir='ltr'>&amp;asumma-k</span> <span class='ocrx_word' id='word_1_13' title='bbox 713 1931 755 2118; x_wconf 44' lang='lat' dir='ltr'>noum-offla</span> <span class='ocrx_word' id='word_1_14' title='bbox 732 1853 755 1911; x_wconf 55' lang='lat' dir='ltr'>no</span> <span class='ocrx_word' id='word_1_15' title='bbox 722 1793 759 1848; x_wconf 51' lang='lat' dir='ltr'>ffi-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1102 3388">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1102 3388">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1102 3388; textangle 180"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1102 3388; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

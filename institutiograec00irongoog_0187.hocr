@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutiograec00irongoog/institutiograec00irongoog_0187.png"; bbox 0 0 2194 3388; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 92 1174 143 2094">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 92 1174 143 2094">
+     <span class='ocr_line' id='line_1_1' title="bbox 92 1174 143 2094; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 93 1759 141 2094; x_wconf 69' lang='lat' dir='ltr'><strong>Dialeeti</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 92 1174 143 1730; x_wconf 65' lang='lat' dir='ltr'>pronorninum-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 969 825 1016 2390">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 969 825 1016 2390">
+     <span class='ocr_line' id='line_1_2' title="bbox 969 825 1016 2390; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 975 2357 1001 2390; x_wconf 78' lang='lat'>1</span> <span class='ocrx_word' id='word_1_4' title='bbox 973 2075 1002 2323; x_wconf 65' lang='lat' dir='ltr'>Nonnulli</span> <span class='ocrx_word' id='word_1_5' title='bbox 969 1817 1000 2054; x_wconf 57' lang='lat' dir='ltr'>nex-ibunt</span> <span class='ocrx_word' id='word_1_6' title='bbox 970 1683 1003 1800; x_wconf 47' lang='lat'>*23:5⁵1</span> <span class='ocrx_word' id='word_1_7' title='bbox 972 1359 999 1661; x_wconf 39' lang='lat' dir='ltr'>fimf&amp;</span> <span class='ocrx_word' id='word_1_8' title='bbox 972 1203 999 1332; x_wconf 70' lang='lat' dir='ltr'><em>Voec.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 971 1125 998 1180; x_wconf 77' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_10' title='bbox 971 928 999 1103; x_wconf 71' lang='lat' dir='ltr'>Indice</span> <span class='ocrx_word' id='word_1_11' title='bbox 973 825 1016 908; x_wconf 45' lang='lat'>¹¹9¹:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1102 3388">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1102 3388">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1102 3388; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1102 3388; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
